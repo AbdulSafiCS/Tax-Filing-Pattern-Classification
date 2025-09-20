@@ -1,7 +1,8 @@
 # Tax-Filing-Pattern-Classification
 Tax Filing Patterns via Classification &amp; Clustering
 
-Goal: Use machine learning to analyze and predict taxpayer 
+# Goal  
+Use machine learning to analyze and predict taxpayer 
 behavior from real-world data (provided by Nesban Solutions).
 Objectives:
 Clustering: Segment taxpayers and uncover behavioral profiles 
@@ -23,4 +24,24 @@ ID
 Categorical
 Numeric
 Date
+
+---
+
+## 📊 Project Overview
+- **Notebook:** `Tax_Filing_Patterns.ipynb` (Google Colab compatible)
+- **Skills Demonstrated:** data wrangling, EDA, visualization, insight communication
+- **Outputs:** clean visuals, concise findings, and a structured repo
+
+---
+
+## 📈 Results & Insights (Replace with your findings)
+- Seasonal spikes around tax deadlines.
+- Differences between e-filing and paper filing methods across segments.
+- Trends in refunds, liabilities, or deductions.
+- Notable outliers and state-level differences.
+
+---
+
+## 🙌 Acknowledgments
+- Tools: Python, Pandas, Matplotlib/Seaborn, Google Colab
 

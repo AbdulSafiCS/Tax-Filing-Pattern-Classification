@@ -35,6 +35,7 @@ Date
 ---
 
 ## 📈 Results & Insights (Replace with your findings)
+**Read the "Detailed Analytic Report" for indepth insight into the data**
 - Seasonal spikes around tax deadlines.
 - Differences between e-filing and paper filing methods across segments.
 - Trends in refunds, liabilities, or deductions.
